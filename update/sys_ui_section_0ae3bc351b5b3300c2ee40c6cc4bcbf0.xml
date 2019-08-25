@@ -3,98 +3,126 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_1</element>
             <position>0</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>ecde907e1b533300c2ee40c6cc4bcb1a</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>0ffec2e81ba73300c2ee40c6cc4bcbc1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
             <position>1</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>60de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>c3fec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
             <position>2</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>e0de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>47fec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
             <position>3</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>64de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>c7fec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
             <position>4</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>e4de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>4bfec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_mod_count</element>
             <position>5</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>68de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>cbfec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
             <position>6</position>
-            <sys_created_by>admin1</sys_created_by>
-            <sys_created_on>2019-08-19 19:29:18</sys_created_on>
-            <sys_id>e8de907e1b533300c2ee40c6cc4bcb1b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>4ffec2e81ba73300c2ee40c6cc4bcbc2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
-            <sys_updated_by>admin1</sys_updated_by>
-            <sys_updated_on>2019-08-19 19:29:18</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>83fec2e81ba73300c2ee40c6cc4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-25 14:08:44</sys_created_on>
+            <sys_id>47fec2e81ba73300c2ee40c6cc4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_21839_prs_prs_v1" sys_domain="global" view="Default view">0ae3bc351b5b3300c2ee40c6cc4bcbf0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-25 14:08:44</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
